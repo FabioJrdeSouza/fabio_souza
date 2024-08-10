@@ -1,7 +1,9 @@
 # fabio_souza
 Engenharia de software 
-
-
+ 
+Projeto  Sistema da clinica
+Bicho do Mato
+Autor Fabio Junior de Souza
 
 # 1. Descrição do sistema 
 
