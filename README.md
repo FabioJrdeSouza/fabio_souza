@@ -14,7 +14,7 @@ Bicho do mato
 
 # 2. Diagrama do banco de dados
 
-![]()
+![Diagrama](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/diagrama1.png?raw=true)
 
 # 3. Diagrama de casos de uso
 
