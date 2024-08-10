@@ -14,8 +14,6 @@ Bicho do mato
 
 # 2. Diagrama do banco de dados
 
-colocar aqui o diagrama de banco!
-
 ![]()
 
 # 3. Diagrama de casos de uso
