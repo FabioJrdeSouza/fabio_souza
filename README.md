@@ -10,13 +10,18 @@ Autor Fabio Junior de Souza
 Sistema para clinica veterinaria
 Nome da clinica:
 Bicho do mato,
-layout moderno e responsivo( Cores do sistemas, linguagem usada, pragrama desktop ou rodar na web.),
-cadastro de clientes(Médico ou consumidor),  
+layout moderno e responsivo( Cores do sistemas, linguagem usada, pragrama desktop),
 area de login,
-area do clinte,
-cadastro do pet,
+cadastro de atendente(vendedor, recepicionista e veterinário),
+cadastro de clientes,  
+cadastro de fornecedores,
+cadastro do pet(raça, cor, tamanho, peso, idade, cachorro de casa ou quintal, etc..),
+sintomas do pet(Decrição do que se passa com o pet, podendo anexar videos e fotos pra melhor avaliação),
 area do veterinário,
-area de atuação.
+Prontuário do veterinário(com todos os históricos do atendimento incluídos os medicamentos prescritos),
+medicamentos prescritos,
+cadastro de medicamentos e produtos,
+formas de pagamento(boleto, cartao de credito, pix e dinheiro)
 
 
 # 2. Diagrama do banco de dados
