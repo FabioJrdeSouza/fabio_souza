@@ -16,7 +16,7 @@ area de login,
 area do clinte,
 cadastro do pet,
 area do veterinário,
-area de atuação
+area de atuação.
 
 
 # 2. Diagrama do banco de dados
