@@ -12,7 +12,7 @@ Nome da clinica:
 Bicho do mato,
 layout moderno e responsivo( Cores do sistemas, linguagem usada, pragrama desktop),
 area de login,
-cadastro de atendente(vendedor, recepicionista e veterinário),
+cadastro de Funcionários(vendedor, recepicionista e veterinário),
 cadastro de clientes,  
 cadastro de fornecedores,
 cadastro do pet(raça, cor, tamanho, peso, idade, cachorro de casa ou quintal, etc..),
