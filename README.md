@@ -4,11 +4,10 @@ Engenharia de software
 Projeto  Sistema da clinica
 Bicho do Mato
 Autor Fabio Junior de Souza
-
+---
 # 1. Descrição do sistema 
 
-<<<<<<< HEAD
- 1. Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
+    1. Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
     2. Os clientes devem fazer um cadastro de si e dos animais. 
     3. Os clientes devem informar as condições nas quais os animais chegam. 
     4. Os clientes devem informar o tipo de ração que o animal come. 
@@ -42,19 +41,21 @@ Autor Fabio Junior de Souza
     34. Vale refeição para pet
     35. Manicure para pets
 
-
+---
 # 2. Diagrama do banco de dados
 
-![Diagrama](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/diagrama1.png?raw=true)
 
+
+![Diagrama](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/diagrama1.png?raw=true)
+---
 # 3. Diagrama de casos de uso
 
 ![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/diagrama%20casos%20de%20uso.png)
-
+---
 # 4. Principais telas do sistemas 
 
 ![]()
-
+---
 # 5. Arquitetura do sistemas 
 
 ![]()
