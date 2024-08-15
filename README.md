@@ -149,7 +149,12 @@ erDiagram
 ---
 # 4. Principais telas do sistemas 
 
-![]()
+![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/Captura%20de%20tela%202024-08-13%20230150.png)
+![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/Captura%20de%20tela%202024-08-13%20230228.png)
+![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/Captura%20de%20tela%202024-08-13%20230239.png)
+![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/Captura%20de%20tela%202024-08-13%20230250.png)
+![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/Captura%20de%20tela%202024-08-13%20230302.png)
+![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/Captura%20de%20tela%202024-08-14%20215819.png)
 ---
 # 5. Arquitetura do sistemas 
 
