@@ -145,6 +145,8 @@ erDiagram
 ---
 # 3. Diagrama de casos de uso
 
+
+
 ![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/diagrama%20casos%20de%20uso.png)
 ---
 # 4. Principais telas do sistemas 
