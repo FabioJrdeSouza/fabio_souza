@@ -145,7 +145,8 @@ erDiagram
 ---
 # 3. Diagrama de casos de uso
 
-
+![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/Diagrama%20sem%20nome.png)
+---
 
 ![](https://github.com/FabioJrdeSouza/fabio_souza/blob/main/imagens/diagrama%20casos%20de%20uso.png)
 ---
