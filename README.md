@@ -161,4 +161,81 @@ erDiagram
 ---
 # 5. Arquitetura do sistemas 
 
+
+```mermaid
+graph TD
+    subgraph "Sistema"
+        A1[Área de Login]
+        B1[Cadastro de Funcionários]
+        B2[Cadastro de Clientes]
+        B3[Cadastro de Fornecedores]
+        B4[Cadastro de Pets]
+        B5[Sintomas do Pet]
+        B6[Cadastro de Medicamentos e Produtos]
+        B7[Área do Veterinário]
+        B8[Prontuário do Veterinário]
+        B9[Medicamentos Prescritos]
+        C1[Formas de Pagamento]
+        C2[Fidelização de Clientes]
+        C3[Vale Refeição para Pet]
+        C4[Manicure para Pets]
+        D1[Atendimento]
+        D2[Agendamento]
+        D3[Fila de Espera]
+        D4[Entrevista com o Dono]
+        D5[Exame do Animal]
+        D6[Receita]
+
+        A1 --> B1
+        A1 --> B2
+        A1 --> B3
+        A1 --> B4
+        A1 --> C1
+        A1 --> C2
+        A1 --> C3
+        A1 --> C4
+
+        B2 --> B4
+        B4 --> B5
+        B4 --> B7
+
+        B7 --> D4
+        B7 --> D5
+        B7 --> B8
+        B7 --> B9
+
+        B8 --> D6
+
+        D1 --> D2
+        D1 --> D3
+        D1 --> D4
+        D1 --> D5
+
+        D2 --> B1
+        D2 --> B2
+        D2 --> B4
+        D2 --> C1
+        D2 --> C2
+
+        D3 --> B2
+        D3 --> B4
+
+        D4 --> B5
+        D4 --> B7
+
+        D5 --> B8
+        D5 --> B9
+
+        C1 --> B4
+        C1 --> D6
+
+        C2 --> B2
+        C2 --> D6
+
+        C3 --> B4
+
+        C4 --> B4
+    end
+```
+
 ![]()
