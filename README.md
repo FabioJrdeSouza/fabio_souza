@@ -269,5 +269,6 @@ graph TD
 
     V --> W[Relatórios]
     W --> X[Cadastro de Medicamentos e Produtos]
+```    
 
 ![]()
