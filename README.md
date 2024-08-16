@@ -237,5 +237,37 @@ graph TD
         C4 --> B4
     end
 ```
+```mermaid
+graph TD
+    A[Área de Login] --> B[Cadastro de Funcionários]
+    A --> C[Cadastro de Clientes]
+    A --> D[Cadastro de Fornecedores]
+    A --> E[Cadastro de Medicamentos e Produtos]
+
+    C --> F[Cadastro do Pet]
+    F --> G[Sintomas do Pet]
+    F --> H[Prontuário do Veterinário]
+    H --> I[Medicamentos Prescritos]
+    I --> J[Área do Veterinário]
+    
+    J --> K[Formulário de Entrevista]
+    J --> L[Exame e Observações]
+
+    L --> M[Receita]
+    M --> N[Vale Refeição para Pet]
+    
+    N --> O[Fidelização de Clientes]
+    O --> P[Manicure para Pets]
+
+    C --> Q[Atendimento]
+    Q --> R[Fila de Espera]
+    R --> S[Agendamento]
+    S --> T[Agenda de Veterinários]
+
+    T --> U[Receita do Atendimento]
+    U --> V[Formas de Pagamento]
+
+    V --> W[Relatórios]
+    W --> X[Cadastro de Medicamentos e Produtos]
 
 ![]()
